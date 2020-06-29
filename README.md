@@ -7,4 +7,4 @@
 ## 3. Backend
       The Backend is built on Django framework.
 ## 4. Frontend
-      The front end is done with the help os ejs template rendering system and bootstrap.
+      The front end is done with the help of html,css and bootstrap.
